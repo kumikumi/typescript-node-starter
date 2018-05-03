@@ -8,6 +8,9 @@
             true,
             "."
         ],
+        "align": false,
+        "import-spacing": false,
+        "whitespace": false,
         "semicolon": false,
         "trailing-comma": false,
         "quotemark": false,

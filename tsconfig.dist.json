@@ -10,7 +10,8 @@
         "rootDir": "src",
         "baseUrl": "src",
         "removeComments": true,
-        "outDir": "dist"
+        "outDir": "dist",
+        "strictNullChecks": true
     },
     "exclude": [
         "node_modules",

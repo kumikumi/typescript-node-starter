@@ -12,6 +12,7 @@
         "rootDir": "src",
         "baseUrl": "src",
         "outDir": "build",
+        "strictNullChecks": true
     },
     "exclude": [
         "node_modules",

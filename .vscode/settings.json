@@ -1,7 +1,5 @@
 {
     "editor.formatOnSave": false,
-    "tslint.enable": true,
-    "tslint.jsEnable": false,
-    "tslint.autoFixOnSave": true,
-    "tslint.alwaysShowRuleFailuresAsWarnings": true
+    "eslint.enable": true,
+    "eslint.autoFixOnSave": true
 }
